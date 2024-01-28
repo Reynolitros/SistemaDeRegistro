@@ -2,6 +2,6 @@
 
 - Estado del proyecto: En construcción.
 
-- para ejecutar el sistema, debes pober;
+- para ejecutar el sistema, debes poner;
 
 - mpm install
