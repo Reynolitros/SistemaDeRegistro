@@ -4,4 +4,4 @@
 
 - para ejecutar el sistema, debes poner;
 
-- mpm install
+- mpm install //es para una parte didactica
