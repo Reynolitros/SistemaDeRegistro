@@ -6,4 +6,4 @@
 
 - mpm install //es para una parte didactica
 - -sistema de registro
-- --prueba
+- --prueba de sistema
