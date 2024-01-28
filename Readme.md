@@ -5,3 +5,4 @@
 - para ejecutar el sistema, debes poner;
 
 - mpm install //es para una parte didactica
+- -sistema de registro
